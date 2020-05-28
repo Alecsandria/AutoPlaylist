@@ -1,2 +1,0 @@
-spotify_token = "BQAweJVBM-p-JJJJgftjF-ykplTwx8d7AfKUzbTUStY5VbhCgQI0Bc-ur_U6qxEpJQgeGjetQqI-yoHLF8uWjMp4IsOX-E80bSskDQf4E7Y43Wivgex4kG3PMPGf7xDteVI-wrbe-oftvdwlfdYt3aVoZuUPCboFFW2mXf2gk2eMZZJXknS62-ZTA4qNSbI355buzeoFY4kVzqN0SMd_Vm24TJpoLJM"
-spotify_user_id = "1n86kn8hikq00z064xljw131y"
